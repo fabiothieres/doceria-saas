@@ -51,7 +51,6 @@ doceria-saas/
 │  ├─ main.jsx
 │  └─ styles.css
 ├─ supabase/
-│  ├─ schema.sql
 │  └─ schema-secure.sql
 ├─ index.html
 ├─ package.json
